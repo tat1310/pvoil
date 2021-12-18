@@ -54,7 +54,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\AssetStore\PolygonPi\FenceLayout\FenceLayout.cs" />
-    <Compile Include="Assets\Mohinhcuanhom\Scripts\WaypointController.cs" />
+    <Compile Include="Assets\Script\Light.cs" />
+    <Compile Include="Assets\Script\Scripts\TrafficLight.cs" />
+    <Compile Include="Assets\Script\Scripts\TurnOn.cs" />
+    <Compile Include="Assets\Script\Scripts\WaypointController.cs" />
+    <Compile Include="Assets\Script\TV\ManagerTV.cs" />
+    <Compile Include="Assets\Script\lavabo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\AssetStore\Fantasy Skybox FREE\Readme.txt" />
